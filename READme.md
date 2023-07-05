@@ -64,7 +64,7 @@
 
 ## 🚀 Live Demo <a name="live-demo"></a>
 
-[My Portfolio](https://xghayor.github.io/Music-Festival/)
+[Live](https://xghayor.github.io/Music-Festival/)
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
@@ -160,7 +160,7 @@ Feel free to check the [issues page](../../issues/).
 
 
 
-> We would like to acknowledge the original design and inspiration provided by [Cindy Shin]
+> I would like to acknowledge the original design and inspiration provided by [Cindy Shin]
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 

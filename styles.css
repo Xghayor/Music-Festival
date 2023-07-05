@@ -142,7 +142,6 @@ body {
   padding-bottom: 50px;
 }
 
-
 /* Main Program section */
 
 #program {
@@ -364,7 +363,7 @@ footer {
   text-decoration: underline;
 }
 
-/* logo-section styles*/
+/* logo-section styles */
 
 #logo-section {
   text-align: center;
@@ -465,7 +464,6 @@ footer {
   margin-left: 100px;
 }
 
-
 /* Hamburger styles */
 
 .program-button {
@@ -533,7 +531,6 @@ footer {
   .bottom-p {
     font-size: 14px;
   }
-
 
   /* Program-Section */
 
@@ -606,7 +603,6 @@ Artist Styles */
     border: 0.5px solid grey;
   }
 
-
   /* footer-styles */
 
   .footer-content {
@@ -625,10 +621,6 @@ Artist Styles */
   .text-content p {
     margin: 0 50px;
   }
-
-
-
-
 
   /* Mobile-menu */
 
@@ -678,8 +670,6 @@ Artist Styles */
     margin: 0;
     margin-bottom: 10px;
   }
-
-
 
   /* About Page Responsive Design */
 

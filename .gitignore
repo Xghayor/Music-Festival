@@ -1,0 +1,7 @@
+#ignore these modules
+node_modules
+
+
+
+#ignore vscode settings
+.vscode

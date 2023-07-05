@@ -22,9 +22,9 @@
 
 <!-- PROJECT DESCRIPTION -->
 
-# 📖 My-Portfolio <a name="about-project"></a>
+# 📖 Music-Festival Project <a name="about-project"></a>
 
-> My personal portfolio website showcasing my skills, projects, and achievements as a web developer
+> Discover a mesmerizing fusion of musical performances, interactive art installations, and captivating experiences in our innovative music festival creation.
 
 
 ## 🛠 Built With <a name="built-with"></a>
@@ -38,6 +38,7 @@
   <ul>
     <li><a href="#">HTML</a></li>
     <li><a href="#">CSS</a></li>
+    <li><a href="#">JAVASCRIPT</a></li>
   </ul>
 </details>
 
@@ -50,11 +51,11 @@
 - **Responsive-Design**
 - **Call-to-action**
 - **Hero-Section**
-- **Projects**
-- **About-me**
-- **Contact-form**
+- **Programs**
+- **Partners**
+- **Artists**
 - **Mobile-menu**
-- **Pop-up-window**
+- **About-page**
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
@@ -63,7 +64,7 @@
 
 ## 🚀 Live Demo <a name="live-demo"></a>
 
-[My Portfolio](https://xghayor.github.io/Portfolio/)
+[My Portfolio](https://xghayor.github.io/Music-Festival/)
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
@@ -127,7 +128,7 @@ To deploy this project, you can upload the project folder (including the HTML an
 
 ## 🔭 Future Features <a name="future-features"></a>
 
-- [ ] **Dynamic**
+- [ ] **Compaigns**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -159,7 +160,7 @@ Feel free to check the [issues page](../../issues/).
 
 
 
-> I would like to thank Microvers.
+> We would like to acknowledge the original design and inspiration provided by [Cindy Shin]
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 

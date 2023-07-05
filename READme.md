@@ -88,7 +88,7 @@ A web browser that supports HTML and CSS.
 
 Clone this repository to your desired folder:
 
-git clone git@github.com:Xghayor/Portfolio.git
+git clone https://github.com/Xghayor/Music-Festival.git
 
 
 ### Usage
@@ -160,7 +160,7 @@ Feel free to check the [issues page](../../issues/).
 
 
 
-> I would like to acknowledge the original design and inspiration provided by [Cindy Shin]
+> I would like to acknowledge the original design and inspiration provided by [Cindy Shin in Behance.]
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 

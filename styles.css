@@ -190,6 +190,10 @@ body {
   padding: 60px;
 }
 
+.card:hover {
+  border: 1px solid white;
+}
+
 .card h3 {
   font-size: 16px;
   margin-top: 0;
@@ -750,4 +754,57 @@ Artist Styles */
   #footer-img {
     margin-left: 100px;
   }
+}
+
+
+@media (max-width: 540px) {
+  .text-content h4 {
+    
+    font-size: 12px;
+    margin-left: 20px;
+    margin-right: 0px;
+}
+.footer-logo img {
+  margin-left: 10px;
+  width: 150px;
+}
+
+.text-content p {
+  margin: 0 50px;
+  font-size: 12px;
+  margin-left: 20px;
+  margin-right: 0px;
+}
+
+.about-content {
+  padding: 100px 15px;
+}
+
+.about-h1 {
+
+  font-size: 2rem;
+}
+
+.about-hero-h2{
+  font-size: 18px;
+}
+
+.about-p {
+  width: 90%;
+  padding: 20px 20px;
+  text-align: center;
+}
+
+.about-bottom-p{
+  margin: 10px auto;
+}
+
+#footer-img {
+  margin-left: 10px;
+}
+
+#hidden-p{
+  display:none;
+}
+
 }
